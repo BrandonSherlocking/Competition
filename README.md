@@ -18,6 +18,8 @@
 
 - GuWen_WordVec：机器读中文2：“辨古识今”，赛题地址：[机器读中文2：“辨古识今”](http://sofasofa.io/competition.php?id=5)
 
+- MeiNianAI：美年健康AI大赛，赛题地址：[美年健康AI大赛](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100150.711.7.50362009etFcQf&raceId=231654)
+
 ----------
 
 ### 一点比赛小经验：
